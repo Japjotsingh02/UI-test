@@ -1,0 +1,19 @@
+.themeCard{
+    display: flex;
+    margin: 1rem 1rem 0rem 1rem;
+}
+
+
+.lightTheme{
+    background-color: #f0f0f0;
+    margin-left:1rem;
+    width: 2rem;
+    border: 1px solid black;
+}
+
+.darkTheme{
+    background-color: gray;
+    margin-left:1rem;
+    width: 2rem;
+    border: 1px solid black;
+}

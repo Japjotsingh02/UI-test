@@ -1,0 +1,15 @@
+.tabCard{
+    border: 1px solid black;
+    padding: 1.5rem;
+    margin: 2px 1rem 1rem;
+    height: 65vh;
+    background-color: #f0f0f0;
+}
+
+.heading{
+     text-align: center;
+}
+
+.dark{
+    background-color: gray !important;
+}
